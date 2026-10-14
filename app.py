@@ -8,7 +8,7 @@ import re
 
 import streamlit as st
 
-MODEL_ID = "gemini-3.8-flash"
+MODEL_ID = "gemini-2.8-flash"
 MAX_CHARS = 30_000  # keeps the prompt small and fast
 
 PROMPT = """You are an expert ATS (Applicant Tracking System) analyst and senior recruiter.
